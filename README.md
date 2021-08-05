@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm NostrumDev</h1>
 <h3 align="center">A passionate individual developer who loves reverse engineering and creating libraries.</h3>
 
-- 🔭 I’m currently working on **Krakenware Soft Light**
+- 🔭 I’m currently working on **Krakenware**
 
 - 🌱 I’m currently learning **C++ & C**
 
