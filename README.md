@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nostrum</h1>
+<h1 align="center">Hi, I'm NstrDev</h1>
 <h3 align="center">A passionate individual developer who loves reverse engineering and creating libraries.</h3>
 
 - 📚 I’m currently learning **C++ & C**
